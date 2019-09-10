@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <title>Trevor Leach</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <section id="downloads">
+          <a href="https://github.com/executionByFork?tab=repositories" class="btn btn-github"><span class="icon"></span>View my GitHub</a>
+          <a href="https://www.linkedin.com/in/trevor-l-6064b5161/" class="btn btn-file"><span class="icon"></span>LinkedIn</a>
+          <a href="./assets/executionByFork_pub.txt" class="btn btn-lock"><span class="icon"></span>My PGP key</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+  </body>
+</html>
