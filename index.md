@@ -13,12 +13,12 @@ layout: default
 | ![star](./assets/images/gold_star20px.png) | Participated in the 2019 CCDC State Qualifiers ([team photo](./assets/images/CCDC2019team.png)) |
 | ![gold](./assets/images/goldMedal20px.png)  | 1st place in the Mizzou 2016 Engineering FIG Olympics  |
 
-## My Hacker Accounts
+## Hacker/Challenge sites
 The following is a list of accounts I have on various CTF challenge sites. These websites provide puzzles and challenges for users to test their hacking skills, and upon completion you are awarded points, which get displayed on your profile. Through these services, I've developed practical skills and learned techniques that I can apply to other tasks and projects. CTF challenges have given me hands on practice and taught me a lot about Cyber Security and it's various subtopics.
 - [Root-me](https://www.root-me.org/executionbyfork?inc=statistiques&lang=en)
 - [HackTheBox](https://www.hackthebox.eu/profile/47787)
 - [HackThisSite](https://www.hackthissite.org/user/view/executionByFork/) - Will complain about a bad referrer. Click the URL box, and hit enter.
-- [RingZer0Team](https://ringzer0ctf.com/profile/24017/ExecutionByFork)
+- [WeChall](https://www.wechall.net/profile/executionByFork)
 
 ## My Projects
 
