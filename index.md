@@ -7,6 +7,7 @@ layout: default
 |   |   |
 |:-----:|-----|
 | ![Cert](./assets/images/certificate20px.png)  | [Bachelors in Computer Science](./assets/degree.jpg) from the University of Missouri Columbia  |
+| ![Cert](./assets/images/certificate20px.png)  | [GIAC Certified Forensic Analyst](./assets/GIAC_Cert.jpg)  |
 | ![Cert](./assets/images/certificate20px.png)  | [CompTIA Security+ Certified](./assets/Security_Plus_Cert.pdf)  |
 | ![silver](./assets/images/silverMedal20px.png)  | 2nd place in the [SEC National Cyber Security Competition](https://engineering.missouri.edu/2018/04/mizzou-showcases-cyber-security-strength-at-sec-academic-conference/) at Auburn University  |
 | ![star](./assets/images/gold_star20px.png)  |  [7th place](https://web.archive.org/web/20190223210500/https://mitrestemctf.org/teams/1592/summary) out of 129 undergraduate teams in the [MITRE STEM CTF](https://web.archive.org/web/20190319062530/https://mitrestemctf.org/game/teams#division-5-tab) ([Cert](./assets/MITRE_Competition_Certificate.pdf))<br>&nbsp;&nbsp;&nbsp;(14th/539 in the college bracket, 45th/1,190 overall)  |
@@ -21,6 +22,9 @@ The following is a list of accounts I have on various CTF challenge sites. These
 - [WeChall](https://www.wechall.net/profile/executionByFork)
 
 ## My Projects
+
+### [MCC Mod Manager](https://github.com/executionByFork/MCC_Mod_Manager)
+_This is a simple mod manager for Halo Master Cheif Collection which I wrote from scratch in C#. I decided to create this application because at the time when MCC was released to PC, there was no good solution available for installing/uninstalling the many mods that were being released. My goal for this project was to create an easy to use tool for managing halo mods for all users (including the technically unsavvy), so I decided to go with a GUI application. I've made it as lightweight as possible, and although there are still a number of things I would like to update when I find time, the tool works really well. It even implements patch files created with the Blamite library from Assembly, a popular tool for halo modding which a majority of modders use to create mods. This allows for smaller storage use, as mods can be stored as patch files instead of entire file copies._
 
 ### [LP_ThreatModeling](https://github.com/tleachman1234/LP_ThreatModeling)
 _This project is a threat modeling methodology created by me and another intern during my 2018 summer internship. This methodology is based off of several other common threat modeling methodologies used in the industry, and we tried to take the best things from each of them to create a streamlined, practical method of assessing threats in any application. This methodology is currently being used at the company I interned at, and by using our threat model they have found and patched several critical vulnerabilities in their systems. This repository contains templates, slides, examples, and instructions to make it easy to learn and begin using our methodology._
